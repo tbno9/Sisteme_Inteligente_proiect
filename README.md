@@ -11,3 +11,10 @@ Acesta cuprinde informații despre:
 - comportamentul academic
 - distrageri digitale
 - metrici de productivitate
+
+## OBIECTIV ##
+Prin acest proiect, se dorește prezicerea performanței (notei) unui student în funcție de obiceiurile pe care acesta le are. Astfel, se poate observa influența (pozitivă sau negativă) pe care diferite activități din viața de zi cu zi o au asupra reușitei academice a studentului.
+
+## TEHNOLOGII UTILIZATE ##
+- Limbaj de programare: Python
+- Biblioteci: pandas, seaborn, matplotlib
