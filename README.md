@@ -1,4 +1,4 @@
-# Sisteme_Inteligente_proiect
+# Performanță student-prezicere
 
 ## DESCRIERE ##
 Scopul acestui proiect este de a analiza obiceiuri din viața de zi cu zi a studenților. Pe baza acestor date, se poate „prezice” performanța pe care un student o va avea, măsurată atât prin **nota finală** obținută, cât și prin **scorul productivității**.
